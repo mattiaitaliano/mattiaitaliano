@@ -1,6 +1,6 @@
 ## Ciao mate! 💂‍♂️🤌
 
-![OkAllGIF](https://github.com/mattiaitaliano/mattiaitaliano/assets/102301489/3a650202-69fd-4ef2-85fe-45cf96a3bd83)
+<img src="https://github.com/mattiaitaliano/mattiaitaliano/assets/102301489/3a650202-69fd-4ef2-85fe-45cf96a3bd83"  width="250" height="250"/>
 
 
 I am Mattia, and as you can tell from my surname, I'm an Italian fellow born in Rome who immigrated to the sunny Great Britain. I lived in London for a while before I decided to move in Nottingham (which it feels like I've merely changed rooms thanks to the work from home).
