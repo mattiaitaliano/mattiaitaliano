@@ -7,7 +7,7 @@ I am Mattia, and as you can tell from my surname, I'm an Italian fellow born in 
 
 I'm - in order - a father, an husband ad a geek that tries to mix his passion about coding with the financial one. I'm currently diving into Data Science 📊 and Sofware Engineering 🧑‍💻
 
-Find more about me on [![LinkedIn]](https://www.linkedin.com/in/mattiaitaliano/).
+Find more about me on [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/).
 
 
 
