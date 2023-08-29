@@ -28,7 +28,7 @@ Find more about me on [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/).
 ## Some Projects done:
 
 1. **Modelling Airbnb property list**: Data Science Project that analyse trends in the Airbnb rental Market. Data Cleaning, Data Analysis and Visualization, Predictive Model.
-2.**Multinational retail Data Centralization**: Data Extraction, Cleaning and Uploading with python and SQL.
+2. **Multinational retail Data Centralization**: Data Extraction, Cleaning and Uploading with python and SQL.
 3. **Computer Vision Rock Paper Scissors**: Tensorflow and python project for computer vision's game.
 4. **Bookstore Manager**: A python program to handle the database of a bookstore.
 5. **Task Manager**: A Task Manager system built in python.
