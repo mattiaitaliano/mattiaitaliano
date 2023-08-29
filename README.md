@@ -29,4 +29,4 @@ Find more about me on [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/).
 
 ## Resources:
 
-_Disclaimer: They are not-mine-forked-repositories that I finde useful to share_
+_Disclaimer: They are not-mine-forked-repositories that I find useful to share_
