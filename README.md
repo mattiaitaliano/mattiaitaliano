@@ -10,9 +10,9 @@ I'm - in order - a father, an husband ad a geek that tries to mix his passion ab
 
 Find more about me on [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/).
 
-## Currently
+## Currently Workin on:
 
-🎓 Education: Student of Financial Management @ Uninettuno University
+🎓 Education: Student of Financial Management @ [Uninettuno University](https://www.uninettunouniversity.net/en/default.aspx)
 
 🧑‍💻 Project: Working on a Python Kivy application to support language learning
 
