@@ -14,7 +14,7 @@ Find more about me on [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/).
 
 🎓 Education: Student of Financial Management @ [Uninettuno University](https://www.uninettunouniversity.net/en/default.aspx)
 
-🧑‍💻 Project: Working on a Python Kivy application to support language learning
+🧑‍💻 Project: Working on a fullstack Web Application
 
 🦀 Rust: I'm a rustacean wannabe
 
