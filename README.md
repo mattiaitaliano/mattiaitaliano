@@ -26,3 +26,7 @@ Find more about me on [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/).
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiaitaliano&layout=donut-vertical)
 
 ## Some Projects done:
+
+## Resources:
+
+_Disclaimer: They are not-mine-forked-repositories that I finde useful to share_
