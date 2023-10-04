@@ -12,9 +12,9 @@ Find more about me on [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/).
 
 ## Currently working on:
 
-🎓 Education: Student of Financial Management @ [Uninettuno University](https://www.uninettunouniversity.net/en/default.aspx)
+🎓 Education: Final year Student of Financial Management @ [Uninettuno University](https://www.uninettunouniversity.net/en/default.aspx)
 
-🧑‍💻 Project: Working on a fullstack [Desktop Application](https://github.com/mattiaitaliano/cs-tech-tool/) with React and Rust as utility tool for my company
+🧑‍💻 Project: Working on a fullstack [Desktop Application](https://github.com/mattiaitaliano/cs-tech-tool/) with React and Rust as utility tool for my Company
 
 🦀 Rust: I'm a rustacean wannabe
 
