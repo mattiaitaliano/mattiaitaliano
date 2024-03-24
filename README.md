@@ -14,7 +14,9 @@ Find more about me on [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/).
 
 🎓 Education: Final year Student of Financial Management @ [Uninettuno University](https://www.uninettunouniversity.net/en/default.aspx)
 
-🧑‍💻 Project: Working on a fullstack Webapp in React with Typescript and Actix rust.
+🧑‍💻 Job: Developing and update [CS Tech Tool](https://github.com/mattiaitaliano/cs-tech-tool).
+
+🧑‍💻 Project: Working on a fullstack Chat Webapp PERN plus Redux and Socket.io.
 
 🦀 Rust: I'm a rustacean wannabe
 
@@ -27,11 +29,12 @@ Find more about me on [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/).
 
 ## Some Projects done:
 
-1. **Modelling Airbnb property list**: Data Science Project that analyse trends in the Airbnb rental Market. Data Cleaning, Data Analysis and Visualization, Predictive Model.
-2. **Multinational retail Data Centralization**: Data Extraction, Cleaning and Uploading with python and SQL.
-3. **Computer Vision Rock Paper Scissors**: Tensorflow and python project for computer vision's game.
-4. **Bookstore Manager**: A python program to handle the database of a bookstore.
-5. **Task Manager**: A Task Manager system built in python.
+1. [**CS Tech Tool**](https://github.com/mattiaitaliano/cs-tech-tool): A Tauri fullstack desktop app with typescript, rust, powerscript to automate corporate's processes in a windows environment.
+2. [**Modelling Airbnb property list**](https://github.com/mattiaitaliano/modelling-airbnbs-property-listing-dataset): Data Science Project that analyse trends in the Airbnb rental Market. Data Cleaning, Data Analysis and Visualization, Predictive Model.
+3. [**Multinational retail Data Centralization**](https://github.com/mattiaitaliano/multinatinal-reatail): Data Extraction, Cleaning and Uploading with python and SQL.
+4. [**Computer Vision Rock Paper Scissors**](https://github.com/mattiaitaliano/computer-vision-rock-paper-scissors): Tensorflow and python project for computer vision's game.
+5. [**Bookstore Manager**](https://github.com/mattiaitaliano/bookstore-manager): A python program to handle the database of a bookstore.
+6. [**Task Manager**](https://github.com/mattiaitaliano/task-manager): A Task Manager system built in python.
 
 
 ## Resources:
