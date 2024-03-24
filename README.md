@@ -33,7 +33,7 @@ Find more about me on [LinkedIn](https://www.linkedin.com/in/mattiaitaliano/).
 2. [**Modelling Airbnb property list**](https://github.com/mattiaitaliano/modelling-airbnbs-property-listing-dataset): Data Science Project that analyse trends in the Airbnb rental Market. Data Cleaning, Data Analysis and Visualization, Predictive Model.
 3. [**Multinational retail Data Centralization**](https://github.com/mattiaitaliano/multinational-retail): Data Extraction, Cleaning and Uploading with python and SQL.
 4. [**Computer Vision Rock Paper Scissors**](https://github.com/mattiaitaliano/computer-vision-rock-paper-scissors): Tensorflow and python project for computer vision's game.
-5. [**Bookstore Manager**](https://github.com/mattiaitaliano/bookstore-manager): A python program to handle the database of a bookstore.
+5. [**Bookstore Manager**](https://github.com/mattiaitaliano/bookstore): A python program to handle the database of a bookstore.
 6. [**Task Manager**](https://github.com/mattiaitaliano/task-manager): A Task Manager system built in python.
 
 
